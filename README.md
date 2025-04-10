@@ -10,6 +10,7 @@ currently learning Nodejs and python<br>Am working on UI
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Techflux0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
+<h3>Streak</h3>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Techflux0&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Techflux0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
