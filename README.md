@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me see:
 currently learning Nodejs and python<br>Am working on UI
 
 
