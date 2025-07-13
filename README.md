@@ -1,6 +1,8 @@
 # 💫 About Me see:
 currently learning Nodejs and python<br>Am working on UI
 
+Be nice 
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abd.ulr_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kevinlucas254) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@poisonmods) 
