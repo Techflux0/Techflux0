@@ -2,7 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=Techflux0&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="." style="padding-right:20px;" />
 </p>
 
-
 ## 📊 Git Stats
 ![](https://github-readme-stats.vercel.app/api?username=Techflux0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
